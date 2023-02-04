@@ -9,6 +9,7 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "build": "^0.1.4",
     "feather": "^0.0.5"
   }
 }
